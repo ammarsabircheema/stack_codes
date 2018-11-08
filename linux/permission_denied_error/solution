@@ -1,11 +1,11 @@
-### This problem can be solved by using command given below:
+This problem can be solved by using command given below:
 
-```
+
 chmod 777 script_name
-```
-### For execution of script write:
 
-```
+
+For execution of script write:
+
+
 sudo python script_name
-```
 
