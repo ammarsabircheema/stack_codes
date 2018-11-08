@@ -1,5 +1,5 @@
 ## The user is trying to compile following code:
-
+The original question is [here](https://stackoverflow.com/questions/52566663/permissionerror-errno-13-permission-denied-while-running-a-server-side-cgi-sc/52566891#52566891).
 ```
 import os,sys
 from http.server import HTTPServer, CGIHTTPRequestHandler
