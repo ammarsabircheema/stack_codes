@@ -1,2 +1,2 @@
 # stack_codes
-This repo contains my answers at stackoverflow and bioinformatics.stackexchange.
+This repo contains my answers on stackoverflow and bioinformatics.stackexchange.
