@@ -118,7 +118,11 @@ ORIGIN
      1501 ccttccaact ttcactactc tgattctttt gatacagcaa taccactgat aggtctgtgt
      1561 ctcagagttg ggagggaggg aaggaaaaaa aaaacttttt gtacaaacgt acaaaactat
      1621 agtagttcct tttgtgggaa ctaaaataag gaaattttct ttctttttta tttattcgtt
-     1681 ttcaacattt acttttataa gatttagatt ttc```
+     1681 ttcaacattt acttttataa gatttagatt ttc
+ ```
+ 
+     
+     
 - The user wants to extract Gene name, protein name, protein ID and translated protein sequence etc from the genbank file.
      
 - The solution to this problem is given **extract_fields.sh**. 
