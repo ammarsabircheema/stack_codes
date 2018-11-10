@@ -1,5 +1,5 @@
 # Remove duplicates from csv
--The original question is [here](https://stackoverflow.com/questions/53019461/remove-characters-and-duplicates-from-csv-file-and-write-to-new-file/53019575#53019575).
+- The original question is [here](https://stackoverflow.com/questions/53019461/remove-characters-and-duplicates-from-csv-file-and-write-to-new-file/53019575#53019575).
 
 - The has following data in a file:
 ```
