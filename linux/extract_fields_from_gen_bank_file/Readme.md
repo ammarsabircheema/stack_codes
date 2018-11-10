@@ -1,5 +1,7 @@
 # Extract fields from genbank file
+
 - The file is given below:
+
 ```
 LOCUS       XM_012540068            1713 bp    mRNA    linear   MAM 11-JAN-2018
 DEFINITION  PREDICTED: Sarcophilus harrisii cytochrome c oxidase assembly
@@ -118,6 +120,6 @@ ORIGIN
      1621 agtagttcct tttgtgggaa ctaaaataag gaaattttct ttctttttta tttattcgtt
      1681 ttcaacattt acttttataa gatttagatt ttc
      ```
-     - The user wants to extract Gene name, protein name, protein ID and translated protein sequence etc from the genbank file.
+- The user wants to extract Gene name, protein name, protein ID and translated protein sequence etc from the genbank file.
      
-     - The solution to this problem is given **extract_fields.sh**. 
+- The solution to this problem is given **extract_fields.sh**. 
