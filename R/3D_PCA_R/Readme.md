@@ -1,4 +1,4 @@
-# 3D PCA R
+# 3D PCA using R
 - The original question is [here](https://bioinformatics.stackexchange.com/questions/5319/3d-pca-group-labelling/5323#5323).
 - The user has 2D pca plot as shown below: ![here.](https://i.stack.imgur.com/eMVAZ.jpg)
 - The user want to generate a plot like this in 3D.
