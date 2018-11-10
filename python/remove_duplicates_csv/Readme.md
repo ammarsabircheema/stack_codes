@@ -1,7 +1,7 @@
 # Remove duplicates from csv
 - The original question is [here](https://stackoverflow.com/questions/53019461/remove-characters-and-duplicates-from-csv-file-and-write-to-new-file/53019575#53019575).
 
-- The has following data in a file:
+- The user has following data in a file:
 ```
 [152.60115606936415][152.60115606936415, 13181.818181818182][152.60115606936415, 13181.818181818182, 1375055.330634278][152.60115606936415, 13181.818181818182, 1375055.330634278, 89.06882591093118]
 ```
